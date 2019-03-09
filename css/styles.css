@@ -52,6 +52,19 @@ body {
     text-shadow: gray 0.3em 0.3em 0.3em;
     background:transparent;
   }
+  .h1 {
+    text-align: center;
+  }
+  .card-text {
+    text-align: center;
+  }
+  #protitle {
+    text-align: center;
+  }
+  .button {
+   text-align: center;
+   margin: auto;
+  }
   @media (min-width: 300px){
 
 .text-xs-center { text-align: center; }
